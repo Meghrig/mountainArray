@@ -18,6 +18,6 @@ public:
         }
         if(peak==i) return false;
         
-        return false;
+        return true;
     }
 };
